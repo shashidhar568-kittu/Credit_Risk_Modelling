@@ -108,7 +108,7 @@ Or, the github project can be readily loaded on [colab-google](https://colab.res
 To run this project, 
 1. Clone the repo:
    ```sh
-   git clone https://github.com/levist7/Credit_Risk_Modelling.git
+   git clone https://github.com/shashidhar568-kittu/Credit_Risk_Modelling.git
    ```
 2. Install [packages](#technologies)
 
@@ -133,7 +133,7 @@ Distributed under the MIT License. See LICENSE.txt for more information.
 
 ## Author  
 
-* [levist7](https://github.com/levist7)
+* [shashidhar568-kittu](https://github.com/shashidhar568-kittu)
 ---
 Made with ❤️ in Paris
 ---
